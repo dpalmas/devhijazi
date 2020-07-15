@@ -1,13 +1,9 @@
 # Gabriel Hijazi "DevHijazi" 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/devhijazi)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gabriel-hijazi/)]
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-hijazi/)](https://www.linkedin.com/in/gabriel-hijazi/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:hijazi.root@gmail.com)
-
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/hijazi_gabriel/)
-
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://devhijazi.tk/)
 
 ### Hey! Welcome to my profile on Github
