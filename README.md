@@ -1,7 +1,7 @@
 # Gabriel Hijazi "DevHijazi" 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/devhijazi)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-hijazi/)](https://www.linkedin.com/in/gabriel-hijazi/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-hijazi-3a5772183/)](https://www.linkedin.com/in/gabriel-hijazi-3a5772183/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:hijazi.root@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/hijazi_gabriel/)
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://devhijazi.tk/)
@@ -16,7 +16,8 @@ My name is Gabriel Hijazi and i'm a Full Stack developer.
 
 also i'm owner of [@sweetcode](https://github.com/sweetcodeio) where i do private projects in my spare time, basically a ''freelance''
 
-### Portuguese
+# Portuguese
+### Hey! Welcome to my profile on Github
 
 Meu nome é Gabriel Hijazi developer Full Stack.
 
