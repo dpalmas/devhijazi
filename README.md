@@ -17,7 +17,7 @@ My name is Gabriel Hijazi and i'm a Full Stack developer.
 also i'm owner of [@sweetcode](https://github.com/sweetcodeio) where i do private projects in my spare time, basically a ''freelance''
 
 # Portuguese
-### Hey! Welcome to my profile on Github
+### Hey! Bem vindo ao meu Github
 
 Meu nome é Gabriel Hijazi developer Full Stack.
 
